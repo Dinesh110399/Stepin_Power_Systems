@@ -1,18 +1,18 @@
 /**
  * @file line_parameters.h
- * @author A.Jagadeesh (jagadeesharadhyula7608@gmail.com)
+ * @author y.dinesh (dinesh110399@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-04-15
+ * @date 2021-09-07
  * 
  * @copyright Copyright (c) 2021
  * 
  */
 #ifndef __LINE_PARAMETERS_H__
 #define __LINE_PARAMETERS_H__
-#include "stdio.h"
-#include "stdlib.h"
-#include "math.h"
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
 /**
  * Structure helps to get complex number 
  * 
