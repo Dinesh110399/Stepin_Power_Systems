@@ -6,6 +6,5 @@
 
 #BADGES
 
-|Build    |Static Code Analysis |Dynamic Code Analysis|Code Quality     |Unity   |Git Inspector|
-|:--------|:--------|:--------|:----------------|:--------|:-----------|
+
 [![Valgrind](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/valgrind.yml)|[![CI](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/build.yml/badge.svg)](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/build.yml)|[![Unit testing](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/unit_testing.yml)[![Contribution Check - Git Inspector](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/git_inspector.yml)|[![cppcheck-action](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Dinesh110399/Stepin_Power_Systems/actions/workflows/cppcheck.yml)
